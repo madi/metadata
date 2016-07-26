@@ -1,4 +1,4 @@
-# Python Client to INSPIRE Metadata Validation Web Service
+# Python Client for Metadata Validation against INSPIRE schema, via Web Service
 
 This python client calls the INSPIRE validation web service at
 http://inspire-geoportal.ec.europa.eu/validator2/ and validates in bulk your
